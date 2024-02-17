@@ -1,5 +1,5 @@
 # Personal Website
 
-This is my personal website which can be found at https://paul.copplest.one
+This is my personal website which can be found at: https://jackdolbs.me
 
-Run it: [https://repl.it/github/kiwicopple/paul.copplest.one](https://repl.it/github/kiwicopple/paul.copplest.one)
+DISCLAIMER: This website is a fork of https://github.com/kiwicopple/paul.copplest.one
