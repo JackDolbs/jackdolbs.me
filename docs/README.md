@@ -11,7 +11,7 @@
 
 ## My Work
 
-[Comcat](https://comcat.dev) - Director<br />
+[Comcat.dev](https://comcat.dev) - Director<br />
 Flexible development support for AI & Web3 startups.
 
 ## Side Projects
