@@ -26,7 +26,7 @@ Small venture firm for AI & Web3 startups.
 
 Projects I've invested in or advised:
 
-[Dark Protocol's $DARK Token](https://www.darkprotocol.org), [stabble](https://stabble.org/), [Mousetrap Games](https://mousetrap.games/)
+[$DARK Token](https://www.darkprotocol.org), [stabble](https://stabble.org/), [Mousetrap Games](https://mousetrap.games/)
 
 ## Getting updates
 
