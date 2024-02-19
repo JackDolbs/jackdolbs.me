@@ -12,7 +12,7 @@ module.exports = {
   'link',
  {
 rel: 'stylesheet',
-href: 'styles/index.styl',
+href: 'https://gitcdn.xyz/repo/kiwicopple/assets/master/public/css/circular.css',
 },
 ],
 ],
