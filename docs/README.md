@@ -1,12 +1,12 @@
-
-
 ## Hi, I'm Jack 👋
 
-[Blog](/blog/) <br />Thoughts & opinions.
+[Blog](/blog/) <br />General writing & opinions.
 
-[Knowledge](/knowledge/) <br />Collection of notes.
+[Knowledge](/knowledge/) <br />Personal commonplace journal.
 
-**Online** <br />[Twitter](https://twitter.com/jackdolbs) | [GitHub](https://github.com/jackdolbs) 
+## Online
+
+[X](https://x.com/jackdolbs) | [GitHub](https://github.com/jackdolbs) 
 
 
 ## My Work
@@ -24,9 +24,9 @@ Small venture firm for AI & Web3 startups.
 
 ## Investments
 
-Projects I've invested in:
+Projects I've invested in or advised:
 
-[Dark Protocol](https://www.darkprotocol.org)
+[Dark Protocol's $DARK Token](https://www.darkprotocol.org), [stabble](https://stabble.org/), [Mousetrap Games](https://mousetrap.games/)
 
 ## Getting updates
 
