@@ -7,15 +7,15 @@ module.exports = {
     ['@vuepress/google-analytics', { ga: 'UA-93673521-3' }],
     ['@vuepress/search', { searchHotkeys: [] }],
   ],
-  // head: [
-  //   [
-  //     'link',
-  //     {
-  //       rel: 'stylesheet',
-  //       href: 'https://gitcdn.xyz/repo/kiwicopple/assets/master/public/css/circular.css',
-  //     },
-  //   ],
-  // ],
+  head: [
+  [
+  'link',
+ {
+rel: 'stylesheet',
+href: 'https://gitcdn.xyz/repo/kiwicopple/assets/master/public/css/circular.css',
+},
+],
+],
   themeConfig: {
     nav: [
       { text: 'Blog', link: '/blog/' },
